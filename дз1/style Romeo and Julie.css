@@ -1,0 +1,28 @@
+body {
+    background: #eff2df; 
+   }
+h1 {
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #353f9b;
+    text-align: center;
+    
+ }
+ h2 {
+    font-size: 40px;
+    font-family: "Monaco", "Courier", monospace;
+    color: #939ce9;
+    text-align: left;
+    
+ }
+ p {
+    font-size: 20px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ p1 {
+    font-size: 20px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+ }

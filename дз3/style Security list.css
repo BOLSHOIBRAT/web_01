@@ -1,0 +1,36 @@
+body {
+    background: #eff2df ; 
+   }
+
+.silver{
+   margin-left: 40px;
+   width: 25em;
+   background-color:  #919191 ;;
+   
+   
+}
+.silver:hover{
+   background: rgb(104, 104, 104);
+}
+h1 {
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: left;
+    margin-left: 40px;
+    width: 60em;
+ }
+p1 {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-emphasis: 40px;
+ }
+ .leftimg {  
+   text-align: center;
+   transform: scale(1);
+   width: 100px;
+   height: 100px;
+   display:inline-block;
+   vertical-align:middle;
+  }

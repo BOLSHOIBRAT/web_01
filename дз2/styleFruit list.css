@@ -1,0 +1,27 @@
+body {
+    background: #eff2df; 
+   }
+.redfone{
+   background: rgb(236, 101, 101);
+   margin-left: auto;
+   margin-right: auto;
+   width: 80em
+}
+.silverfone{
+background: rgb(192, 70, 70);
+margin-left: auto;
+margin-right: auto;
+width: 70em
+}
+.darkfone{
+background: rgb(143, 16, 16);
+padding-left: 20px;
+padding-right: 20px;
+}  
+p1 {
+    font-size: 40px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-left: 20px;
+ }
